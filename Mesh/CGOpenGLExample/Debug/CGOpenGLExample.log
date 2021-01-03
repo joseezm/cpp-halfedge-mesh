@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(59,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(60,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(61,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\Main.cpp(25,12): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\Main.cpp(26,12): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  CGOpenGLExample.vcxproj -> C:\Users\Asus\source\repos\MeshBeta\Debug\CGOpenGLExample.exe

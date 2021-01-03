@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  mesh.cpp
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\Main.cpp(3,9): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glut.h': No such file or directory
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(59,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(60,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.h(61,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Asus\source\repos\MeshBeta\CGOpenGLExample\mesh.cpp(4,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glut.h': No such file or directory
